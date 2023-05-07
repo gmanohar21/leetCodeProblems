@@ -9,3 +9,4 @@
 - https://leetcode.com/problems/number-of-good-pairs/description/
 - https://leetcode.com/problems/sum-of-unique-elements/description/
 - https://leetcode.com/problems/largest-local-values-in-a-matrix/description/
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
