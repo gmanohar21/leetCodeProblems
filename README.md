@@ -1,6 +1,8 @@
 ## Daily Problems List
 
 - Arrays Easy 
+|sl.no|Date|Question Link|Difficulty level|remarks|
+|1|07-05-2023|https://leetcode.com/problems/concatenation-of-array/description/|Easy|
 
 - https://leetcode.com/problems/concatenation-of-array/description/
 - https://leetcode.com/problems/build-array-from-permutation/description/
