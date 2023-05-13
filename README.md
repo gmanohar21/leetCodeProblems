@@ -12,4 +12,4 @@
 | 8   |8/5/23 | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | Easy              | upsolve |
 | 9   |9/5/23 | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ | Easy              | Easy |
 | 10  |10/5/23| https://leetcode.com/problems/decode-xored-array/submissions/948169398/             | Easy              | Easy |
-| 11  |11/5/23|  | Easy              |  |
+| 11  |11/5/23| https://leetcode.com/problems/create-target-array-in-the-given-order/description/   | Easy              | upsolve |
