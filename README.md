@@ -14,4 +14,4 @@
 | 10  |10/5/23| https://leetcode.com/problems/decode-xored-array/submissions/948169398/             | Easy              | Easy |
 | 11  |11/5/23| https://leetcode.com/problems/create-target-array-in-the-given-order/description/   | Easy              | upsolve |
 | 12  |12/5/23| https://leetcode.com/problems/array-partition/description/                          | Easy              | upsolve |
-| 13  |13/5/23|   | Easy              | upsolve |
+| 13  |13/5/23| https://leetcode.com/problems/middle-of-the-linked-list/                            | Easy              | upsolve |
