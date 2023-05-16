@@ -15,6 +15,6 @@
 | 11  |11/5/23| https://leetcode.com/problems/create-target-array-in-the-given-order/description/   | Easy              | upsolve |
 | 12  |12/5/23| https://leetcode.com/problems/array-partition/description/                          | Easy              | upsolve |
 | 13  |13/5/23| https://leetcode.com/problems/middle-of-the-linked-list/                            | Easy              | upsolve |
-| 14  |14/5/23|                            | Easy              | upsolve |
-| 15  |15/5/23|                         | Easy              | upsolve |
+| 14  |14/5/23| https://leetcode.com/problems/reverse-linked-list/description/                      | Easy              | upsolve |
+| 15  |15/5/23| https://leetcode.com/problems/reverse-linked-list/description/                      | Easy              | upsolve |
 | 16  |16/5/23|https://leetcode.com/problems/reverse-linked-list/description/                       | Easy              | upsolve |
