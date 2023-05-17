@@ -1,7 +1,7 @@
 ## Daily Problems List
 
-| SlNo | Date    |                             Question Links                                          | Difficulty Level  | remarks      |
-| :--:| :-------:| :----------------------------------------------------------------------------------:| :---------------: | :----------: |
+| SlNo | Date    |                             Question Links                         | Difficulty Level  | remarks      | comment      |
+| :--:| :-------:| :----------------------------------------------------------------------------------:| :---------------: | :----------: | :----------: |
 | 1   |1/5/23 | https://leetcode.com/problems/concatenation-of-array/description/                   | Easy              | easy |
 | 2   |2/5/23 | https://leetcode.com/problems/concatenation-of-array/description/                   | Easy              | easy |
 | 3   |3/5/23 | https://leetcode.com/problems/build-array-from-permutation/description/             | Easy              | easy |
@@ -18,3 +18,4 @@
 | 14  |14/5/23| https://leetcode.com/problems/reverse-linked-list/description/                      | Easy              | upsolve |
 | 15  |15/5/23| https://leetcode.com/problems/reverse-linked-list/description/                      | Easy              | upsolve |
 | 16  |16/5/23|https://leetcode.com/problems/reverse-linked-list/description/                       | Easy              | upsolve |
+| 17  |17/5/23|https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/         | Medim              | upsolve | solve it again |
