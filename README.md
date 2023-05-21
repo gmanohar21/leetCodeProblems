@@ -22,4 +22,6 @@
 | 18  |18/5/23|       | Medium              | upsolve | solve it again |
 | 19  |19/5/23|https://leetcode.com/problems/smallest-range-ii/         | Medium              | hard |solve again  |array|
 | 20  |20/5/23|https://leetcode.com/problems/design-hashset/description/        | Medium              | upsolve | solve it again |Linkedlist|
+| 21  |21/5/23|https://leetcode.com/problems/sort-array-by-parity-ii/description/        | Easy              | Medium | solve it again |Array Two Pointer|
+
 
