@@ -19,7 +19,7 @@
 | 15  |15/5/23| https://leetcode.com/problems/reverse-linked-list/description/                      | Easy              | upsolve |
 | 16  |16/5/23|https://leetcode.com/problems/reverse-linked-list/description/                       | Easy              | upsolve |
 | 17  |17/5/23|https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/         | Medium| upsolve | solve it again |
-| 18  |18/5/23|       | Medium              | upsolve | solve it again |
+| 18  |18/5/23|       |              | |  |
 | 19  |19/5/23|https://leetcode.com/problems/smallest-range-ii/         | Medium              | hard |solve again  |array|
 | 20  |20/5/23|https://leetcode.com/problems/design-hashset/description/        | Medium              | upsolve | solve it again |Linkedlist|
 | 21  |21/5/23|https://leetcode.com/problems/sort-array-by-parity-ii/description/        | Easy              | Medium | solve it again |Array Two Pointer|
