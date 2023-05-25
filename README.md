@@ -24,6 +24,6 @@
 | 20  |20/5/23|https://leetcode.com/problems/design-hashset/description/        | Medium              | upsolve | solve it again |Linkedlist|
 | 21  |21/5/23|https://leetcode.com/problems/sort-array-by-parity-ii/description/        | Easy              | Medium | solve it again |Array Two Pointer|
 | 22  |22/5/23|https://leetcode.com/problems/sort-an-array/description/        | Easy              | Easy | sorting pure |Array |
-| 23  |23/5/23|       | Easy              | Easy | sorting pure |Array |
-| 24  |24/5/23|        | Easy              | Easy | sorting pure |Array |
+| 23  |23/5/23|       |            |  | | |
+| 24  |24/5/23|        |             | |  | |
 | 25  |25/5/23|https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/        | Medium | Medium |HashMap,Array,gcd,recursion|Array|
