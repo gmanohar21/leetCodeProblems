@@ -27,5 +27,5 @@
 | 23  |23/5/23|       |            |  | | |
 | 24  |24/5/23|        |             | |  | |
 | 25  |25/5/23|https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/        | Medium | Medium |HashMap,Array,gcd,recursion|Array|
-| 26  |26/5/23|Jewels and Stones       | Easy | Easy |HashSet,Array|Array|
+| 26  |26/5/23|https://leetcode.com/problems/jewels-and-stones/       | Easy | Easy |HashSet,Array|Array|
 | 27  |27/5/23|       | Easy | Easy |HashSet,Array|Array|
