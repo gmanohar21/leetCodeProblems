@@ -4,6 +4,7 @@ class Solution {
        int sm= nums[0]*nums[1];
        int lg=nums[nums.length-2]*nums[nums.length-1];
        int temp=lg-sm;
+       System.gc();
        return temp;
     }
 }
