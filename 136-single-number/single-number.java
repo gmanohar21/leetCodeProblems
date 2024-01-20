@@ -7,12 +7,9 @@ class Solution {
         }
         for(Map.Entry<Integer,Integer> s:m.entrySet()){
            
-                if(s.getValue()==1)  {
+                if(s.getValue()==1)
                     ans=s.getKey();
-                    break;
-                }
-           
-            
+                 
         }
         return ans;
     }
