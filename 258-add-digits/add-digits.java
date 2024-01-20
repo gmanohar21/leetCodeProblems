@@ -12,12 +12,7 @@ class Solution {
          num=sum;
        
          sum=addDigits(num);
-        } 
-      
-        else {
-            return sum;
-        }
-           
+        }  
         return sum;
     }
 }
