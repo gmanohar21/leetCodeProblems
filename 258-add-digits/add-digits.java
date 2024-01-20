@@ -10,7 +10,6 @@ class Solution {
      
         if(sum>9) {
          num=sum;
-       
          sum=addDigits(num);
         }  
         return sum;
