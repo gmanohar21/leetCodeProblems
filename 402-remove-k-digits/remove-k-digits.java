@@ -4,6 +4,8 @@ class Solution {
         Stack<Character> s=new Stack<>();
         int i=0;
         while(i<num.length()){
+
+            //whenever we get a digit less than previous
             while(!s.isEmpty() && s.peek()>num.charAt(i) && k>0){
                 s.pop();
                 k--;
@@ -12,6 +14,7 @@ class Solution {
             i++;
         }
 
+        // for cases like 1111
         while(k>0){
             s.pop();
             k--;
