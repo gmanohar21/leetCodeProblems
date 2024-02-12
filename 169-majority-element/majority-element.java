@@ -7,7 +7,10 @@ class Solution {
             m.put(nums[i],m.getOrDefault(nums[i],0)+1);
         }
          Optional<Integer> max=
-       m.entrySet().stream().filter(t->t.getValue()>mj).map(Map.Entry::getKey).max(Integer::compareTo);
+       m.entrySet().stream()
+                    .filter(t->t.getValue()>mj)
+                    .map(Map.Entry::getKey)
+                    .max(Integer::compareTo);
        
         return max.orElse(0);
     }
