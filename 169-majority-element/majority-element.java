@@ -1,22 +1,14 @@
+import java.util.Optional;
 class Solution {
     public int majorityElement(int[] nums) {
-        int el=0;
-        int cnt=0;
+        int mj =nums.length/2;
+        Map<Integer,Integer> m=new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            if(cnt==0){
-                el=nums[i];
-                cnt=1;
-            }else if(nums[i]==el){
-                cnt++;
-            }else{
-                cnt--;
-            }
+            m.put(nums[i],m.getOrDefault(nums[i],0)+1);
         }
-        int cnt1=0;
-         for(int i=0;i<nums.length;i++){
-            if(nums[i]==el) cnt1++;
-        }
-        if(cnt1>nums.length/2) return el;
-        return 0;
+         Optional<Integer> max=
+       m.entrySet().stream().filter(t->t.getValue()>mj).map(Map.Entry::getKey).max(Integer::compareTo);
+       
+        return max.orElse(0);
     }
 }
