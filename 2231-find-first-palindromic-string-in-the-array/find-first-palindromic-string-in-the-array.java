@@ -7,9 +7,7 @@ class Solution {
             if(checkPal(word)){
                 return word;
             }
-          
         }
-       
         return ans;
     }
 
@@ -19,10 +17,9 @@ class Solution {
                 while(l<h){
                     if(word.charAt(l)!=word.charAt(h)){
                         check=false;
-                     
                     }
-                       l++;
-                        h--;
+                     l++;
+                     h--;
                 }
                 return check;
     }
