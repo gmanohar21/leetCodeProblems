@@ -11,17 +11,16 @@ class Solution {
                 score++;
                 maxscore=Math.max(maxscore,score);
                 l++;
-                
+                continue;
             }else{
                 if(score>=1){
                     power+=tokens[h];
                     score--;
                     h--;
-                }else{
-                    break;
+                    continue;
                 }
             }
-           
+            break;
         }
         return maxscore;
     }
