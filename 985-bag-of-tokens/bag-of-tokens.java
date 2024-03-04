@@ -5,13 +5,14 @@ class Solution {
         int maxscore=0;
         int l=0;
         int h=tokens.length-1;
+        //using two pointer 
         while(l<=h){
             if(power>=tokens[l]){
                 power-=tokens[l];
                 score++;
                 maxscore=Math.max(maxscore,score);
                 l++;
-                continue;
+                continue; //break here and check remaining loop
             }else{
                 if(score>=1){
                     power+=tokens[h];
