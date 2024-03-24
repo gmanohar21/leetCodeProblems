@@ -11,7 +11,6 @@ class Solution {
                 o+=2;
             }
         }
-        System.out.println(Arrays.toString(a));
         return a;
     }
 }
